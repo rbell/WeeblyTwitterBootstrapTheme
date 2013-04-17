@@ -238,6 +238,7 @@ color: #333333;
 .wsite-social {
 	vertical-align: middle;
 	margin: 6px 0 6px 12px;
+	position: center;
 }
 .wsite-social-item {
 	width: 24px !important;
