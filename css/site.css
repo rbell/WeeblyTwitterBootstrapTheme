@@ -136,9 +136,9 @@ color: #333333;
   -o-transition: all 0.5s;
   transition: all 0.5s;
 }
-.navbar .nav > .active > a,
-.navbar .nav > .active > a:hover,
-.navbar .nav > .active > a:focus {
+.navbar .nav > #active > a,
+.navbar .nav > #active > a:hover,
+.navbar .nav > #active > a:focus {
   color: #262626 !important;
   background-color: #fff !important;
   box-shadow: none;
@@ -173,13 +173,13 @@ color: #333333;
 .nav-tabs.nav-stacked > li > a:hover {
   color: #0378a9;
 }
-.nav-tabs.nav-stacked > li.active > a {
+.nav-tabs.nav-stacked > li#active > a {
   background: #0378a9;
   background: #049cdb;
   color: #fff;
   position: relative;
 }
-.nav-tabs.nav-stacked > li.active > a:before {
+.nav-tabs.nav-stacked > li#active > a:before {
   position: absolute;
   content: '';
   height: 26px;
