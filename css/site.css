@@ -199,7 +199,7 @@ color: #333333;
 .bg_img
 {
   height: 720px;
-  background: url('http://irunon.net/files/theme/background.png');
+  background: url('http://irunon.net/files/theme/background.png'), no-repeate center center fixed;
   background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
@@ -214,6 +214,11 @@ color: #333333;
 	color-stop(80%, rgb(0,0,0))
   ),
   url('http://www.irunon.net/files/theme/background.png');
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #wrap {
