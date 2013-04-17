@@ -199,7 +199,7 @@ color: #333333;
 .bg_img
 {
   background-position: left top;
-  background: url('http://irunon.net/files/theme/background.png'), no-repeat top left fixed;
+  background: url('http://www.irunon.net/files/theme/background.png'), no-repeat top left fixed;
   background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
@@ -239,7 +239,7 @@ color: #333333;
 	width: 23px !important;
 	height: 23px !important;
 	margin: 0 0 0 3px !important;
-	background-image:url(http://irunon.net/files/theme/social-grey.png) !important;
+	background-image:url(http://www.irunon.net/files/theme/social-grey.png) !important;
 }
 
 .wsite-social-facebook {background-position:0 0;}
