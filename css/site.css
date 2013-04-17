@@ -236,10 +236,10 @@ color: #333333;
 }
 
 .wsite-social-item {
-	width: 23px;
-	height: 23px;
-	margin: 0 0 0 3px;
-	background-image:url(http://irunon.net/files/theme/social-grey.png);
+	width: 23px !important;
+	height: 23px !important;
+	margin: 0 0 0 3px !important;
+	background-image:url(http://irunon.net/files/theme/social-grey.png) !important;
 }
 
 .wsite-social-facebook {background-position:0 0;}
