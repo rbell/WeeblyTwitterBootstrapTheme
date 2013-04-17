@@ -198,19 +198,20 @@ color: #333333;
 
 .bg_img
 {
+  height: 720px;
   background: url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-  background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 558px), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-  background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 548px), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-  background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 548px), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-  background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 548px), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-  background-image: -ms-linear-gradient(top, rgba(255,255,255,o) 0%, rgb(0,0,0) 548px), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 80%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
 
   background-image: -webkit-gradient(
 	linear,
 	left top,
 	left bottom,
 	color-stop(0, rgba(255,255,255,0)),
-	color-stop(548, rgb(0,0,0))
+	color-stop(80%, rgb(0,0,0))
   ),
   url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
 }
