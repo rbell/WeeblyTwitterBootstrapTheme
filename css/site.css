@@ -235,6 +235,13 @@ color: #333333;
   background-color: black;
 }
 
+.wsite-social-item {
+	width: 23px;
+	height: 23px;
+	margin: 0 0 0 3px;
+	background-image:url(http://irunon.net/files/theme/social-grey.png);
+}
+
 .wsite-social-facebook {background-position:0 0;}
 	.wsite-social-facebook:hover {background-position:0 -23px;}
 	.wsite-social-facebook:active {background-position:0 -46px;}
