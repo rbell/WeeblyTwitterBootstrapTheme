@@ -90,6 +90,14 @@ color: #333333;
   letter-spacing: 1px;
   margin-left: 0;
 }
+
+.navbar .brand #logo {
+  float: left;
+  background: transparent url("http://www.irunon.net/files/theme/logo.png");
+  width: 32px;
+  height: 90px;
+}
+
 .navbar li {
   overflow: hidden;
 }
