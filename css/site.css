@@ -200,11 +200,11 @@ color: #333333;
 {
   height: 720px;
   background: url('http://irunon.net/files/theme/background.png');
-  background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://irunon.net/files/theme/background.png');
-  background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://irunon.net/files/theme/background.png');
-  background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://irunon.net/files/theme/background.png');
-  background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://irunon.net/files/theme/background.png');
-  background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 80%), url('http://irunon.net/files/theme/background.png');
+  background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+  background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+  background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+  background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
 
   background-image: -webkit-gradient(
 	linear,
@@ -213,7 +213,7 @@ color: #333333;
 	color-stop(0, rgba(255,255,255,0)),
 	color-stop(80%, rgb(0,0,0))
   ),
-  url('http://irunon.net/files/theme/background.png');
+  url('http://www.irunon.net/files/theme/background.png');
 }
 
 #wrap {
