@@ -87,7 +87,7 @@ color: #333333;
   font-weight: bold;
   letter-spacing: 1px;
   margin-left: 0;
-  text-indent: 0px;
+  text-indent: -50px;
   width: 61px;
 }
 .navbar li {
