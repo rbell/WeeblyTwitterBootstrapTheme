@@ -67,6 +67,30 @@ body {
   );
 }
 
+body:before
+{
+content: " ";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+    background-image: linear-gradient(top, #FFFFFF 0%, #000000 56%);
+  background-image: -o-linear-gradient(top, #FFFFFF 0%, #000000 56%);
+  background-image: -moz-linear-gradient(top, #FFFFFF 0%, #000000 56%);
+  background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #000000 56%);
+  background-image: -ms-linear-gradient(top, #FFFFFF 0%, #000000 56%);
+
+  background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #FFFFFF),
+	color-stop(0.56, #000000)
+  );
+}
+
 #wrap {
   min-height: 100%;
   height: auto !important;
