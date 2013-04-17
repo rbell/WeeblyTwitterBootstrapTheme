@@ -198,6 +198,7 @@ color: #333333;
 
 .bg_img
 {
+  height: 720px;
   background: url('http://irunon.net/files/theme/background.png'), no-repeat center center fixed;
   background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
