@@ -234,7 +234,7 @@ color: #333333;
  }
  
 #footer {
-  background-color: #ffffff;
+  background-color: black;
 }
 
 @media (max-width: 767px) {
