@@ -53,6 +53,14 @@ body {
   height: 100%;
 }
 
+body {
+color: #333333;
+  font-size: 12px;
+  background: #444;
+  color: #f2f2f2;
+  font-family: "wf_SegoeUI", "Segoe UI", "Segoe", "Segoe WP", "Tahoma", "Verdana", "Arial", "sans-serif";
+}
+
 .bg_img
 {
   background: url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
