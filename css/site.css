@@ -52,30 +52,20 @@ html,
 body {
   height: 100%;
   background: url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
-}
-
-body:before
-{
-content: " ";
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  z-index: -1;
-  top: 0;
-  left: 0;
-    background-image: linear-gradient(top, #FFFFFF 0%, #000000 56%);
-  background-image: -o-linear-gradient(top, #FFFFFF 0%, #000000 56%);
-  background-image: -moz-linear-gradient(top, #FFFFFF 0%, #000000 56%);
-  background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #000000 56%);
-  background-image: -ms-linear-gradient(top, #FFFFFF 0%, #000000 56%);
+  background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 56%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 56%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 56%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 56%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
+  background-image: -ms-linear-gradient(top, rgba(255,255,255,o) 0%, rgb(0,0,0) 56%), url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
 
   background-image: -webkit-gradient(
 	linear,
 	left top,
 	left bottom,
-	color-stop(0, #FFFFFF),
-	color-stop(0.56, #000000)
-  );
+	color-stop(0, rgba(255,255,255,0)),
+	color-stop(0.56, rgb(0,0,0))
+  ),
+  url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
 }
 
 #wrap {
