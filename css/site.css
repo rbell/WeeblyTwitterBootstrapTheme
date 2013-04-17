@@ -210,7 +210,7 @@ color: #333333;
 	left top,
 	left bottom,
 	color-stop(0, rgba(255,255,255,0)),
-	color-stop(548px, rgb(0,0,0))
+	color-stop(548, rgb(0,0,0))
   ),
   url(http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/background.png?1366159371002);
 }
