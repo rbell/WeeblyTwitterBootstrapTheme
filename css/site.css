@@ -64,6 +64,7 @@ color: #333333;
 /**** Navigation   *****/
 .navbar-inner {
   border: none;
+  border-color: none;
   border-radius: 0;
   background: none;
   -webkit-box-shadow: none;
