@@ -207,7 +207,7 @@ color: #333333;
 {
   background-position: left top;
   background: no-repeat;
-  backgroung-color: black;
+  background-color: black;
   background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
