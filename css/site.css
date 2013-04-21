@@ -290,11 +290,12 @@ color: #333333;
 }
 
 div .wsite-elements {
-	border-radius: 15px !important; 
-	-moz-border-radius: 15px !important; 
-	-webkit-border-radius: 15px !important;
-	border: 1px solid rgb(241,227,201) !important;
-	background:rgba(82,55,28,.8) !important
+	border-radius: 8px !important; 
+	-moz-border-radius: 8px !important; 
+	-webkit-border-radius: 8px !important;
+	border: 1px solid rgb(82,55,28) !important;
+	background:rgba(82,55,28,.2) !important;
+	padding: 10px 10px 10px 10px;
 }
 
 #wrap {
