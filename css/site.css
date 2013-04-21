@@ -326,10 +326,8 @@ color: #333333;
 }
 
 .wsite-social-facebook:before {content: "\e001"; !important;}
-.wsite-social-twitter {content: "\e000"; !important;}
-.wsite-social-linkedin {content: "\e003"; !important;}
-	.wsite-social-linkedin:hover {background-position:-69px -23px !important;}
-	.wsite-social-linkedin:active {background-position:-69px -46px !important;}
+.wsite-social-twitter:before  {content: "\e000"; !important;}
+.wsite-social-linkedin :before {content: "\e003"; !important;}
 .wsite-social-mail {background-position:-92px 0 !important;}
 	.wsite-social-mail:hover {background-position:-92px -23px !important;}
 	.wsite-social-mail:active {background-position:-92px -46px !important;}
