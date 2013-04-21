@@ -298,6 +298,32 @@ color: #333333;
   }
 }
 
+@media (max-width: 480px){
+	.bg_img
+	{
+		background-position: left top;
+		background: no-repeat;
+		background-color: black;
+		background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+
+		background-image: -webkit-linear-gradient(
+			top,
+			rgba(255,255,255,0),
+			black 500px
+		),
+		url('http://www.irunon.net/files/theme/background.png');
+  
+	-webkit-background-size: 100% 360px;
+	-moz-background-size: 100% 360px;
+	-o-background-size: 100% 360px;
+	background-size: 100% 360px;
+	}
+}
+
 @media (max-width: 321px) {
   .navbar .brand {
     font-size: 15px;
