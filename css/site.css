@@ -1,7 +1,7 @@
 /* custom CSS */
 @font-face {
 	font-family: 'socialIcons';
-	src:url('fonts/socialIcons.eot');
+	src:url('http://www.weebly.com/uploads/1/9/2/0/19203105/custom_themes/313342042472010040/files/socialIcons.eot');
 }
 @font-face {
 	font-family: 'socialIcons';
@@ -309,17 +309,23 @@ color: #333333;
 	vertical-align: middle;
 	margin: 6px 0 6px 12px;
 	position: center;
+	font-family: 'socialIcons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
 }
 .wsite-social-item {
 	width: 24px !important;
 	height: 24px !important;
 	margin: 0 0 0 5px !important;
-	background-image:url(http://www.irunon.net/files/theme/social-grey.png) !important;
+	background-image: none !important;
 }
 
-.wsite-social-facebook {background-position:0 0 !important;}
-	.wsite-social-facebook:hover {background-position:0 -23px !important;}
-	.wsite-social-facebook:active {background-position:0 -46px !important;}
+.wsite-social-facebook:before {content: "\e001"; !important;}
 .wsite-social-pinterest {background-position:-23px 0 !important;}
 	.wsite-social-pinterest:hover {background-position:-23px -23px !important;}
 	.wsite-social-pinterest:active {background-position:-23px -46px !important;}
