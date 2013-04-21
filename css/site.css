@@ -325,10 +325,7 @@ color: #333333;
 	height: 24px !important;
 	margin: 0 0 0 5px !important;
 	background-image: none !important;
-}
-
-a .wsite-social-item {
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 .wsite-social-facebook > span:before {content: "\e001"; !important;}
