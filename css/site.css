@@ -304,23 +304,23 @@ color: #333333;
 		background-position: left top;
 		background: no-repeat;
 		background-color: black;
-		background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
-		background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
-		background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
-		background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
-		background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 80%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 50%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 50%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 50%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -webkit-linear-gradient(top, rgba(255,255,255) 0%, rgb(0,0,0) 50%), url('http://www.irunon.net/files/theme/background.png');
+		background-image: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(0,0,0) 50%), url('http://www.irunon.net/files/theme/background.png');
 
 		background-image: -webkit-linear-gradient(
 			top,
 			rgba(255,255,255,0),
-			black 500px
+			black 200px;
 		),
 		url('http://www.irunon.net/files/theme/background.png');
   
-	-webkit-background-size: 100% 180px;
-	-moz-background-size: 100% 180px;
-	-o-background-size: 100% 180px;
-	background-size: 100% 180px;
+	-webkit-background-size: 100% 270px;
+	-moz-background-size: 100% 270px;
+	-o-background-size: 100% 270px;
+	background-size: 100% 270px;
 	}
 }
 
