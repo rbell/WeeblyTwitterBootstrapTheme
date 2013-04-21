@@ -327,6 +327,10 @@ color: #333333;
 	background-image: none !important;
 }
 
+a .wsite-social-item {
+	text-decoration: none;
+}
+
 .wsite-social-facebook > span:before {content: "\e001"; !important;}
 .wsite-social-twitter:before  {content: "\e000"; !important;}
 .wsite-social-linkedin :before {content: "\e003"; !important;}
