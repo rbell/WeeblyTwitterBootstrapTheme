@@ -121,7 +121,7 @@ color: #333333;
 
 /**** Navigation   *****/
 .navbar-inner {
-  background:rgba(82,55,28,.5) !important;
+  background:rgba(82,55,28,.8) !important;
   border: none;
   border-color: none;
   border-radius: 0;
@@ -130,7 +130,7 @@ color: #333333;
   box-shadow: none;
   filter: none;
   padding: 0;
-  border-bottom: 1px solid #fff !important;
+  border-bottom: 1px solid rgb(241,227,201) !important;
 }
 .navbar {
   margin: 0;
