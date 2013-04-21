@@ -269,7 +269,7 @@ color: #333333;
 {
   background-position: left top;
   background: no-repeat;
-  background-color: black;
+  background-color: rgb(32,27,21);
   background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 80%), url('http://www.irunon.net/files/theme/background.png');
   background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 80%), url('http://www.irunon.net/files/theme/background.png');
@@ -302,7 +302,7 @@ color: #333333;
  }
  
 #footer {
-  background-color: black;
+  background-color: rgb(32,27,21);
 }
 
 .wsite-social {
@@ -365,7 +365,7 @@ color: #333333;
 	{
 		background-position: left top;
 		background: no-repeat;
-		background-color: black;
+		background-color: rgb(32,27,21);
 		background-image: linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 50%), url('http://www.irunon.net/files/theme/background.png');
 		background-image: -o-linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 50%), url('http://www.irunon.net/files/theme/background.png');
 		background-image: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgb(32,27,21) 50%), url('http://www.irunon.net/files/theme/background.png');
