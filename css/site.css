@@ -317,10 +317,10 @@ color: #333333;
 		),
 		url('http://www.irunon.net/files/theme/background.png');
   
-	-webkit-background-size: 100% 360px;
-	-moz-background-size: 100% 360px;
-	-o-background-size: 100% 360px;
-	background-size: 100% 360px;
+	-webkit-background-size: 100% 180px;
+	-moz-background-size: 100% 180px;
+	-o-background-size: 100% 180px;
+	background-size: 100% 180px;
 	}
 }
 
