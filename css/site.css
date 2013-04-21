@@ -316,8 +316,8 @@ color: #333333;
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
-	color: white;
-	font-size: 11px;
+	color: white !important;
+	font-size: 11px !important;
 	-webkit-font-smoothing: antialiased;
 }
 .wsite-social-item {
