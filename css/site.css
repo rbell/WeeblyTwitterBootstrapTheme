@@ -313,10 +313,10 @@ color: #333333;
 		background-image: -webkit-linear-gradient(
 			top,
 			rgba(255,255,255,0),
-			black 500px;
+			black 500px
 		),
 		url('http://www.irunon.net/files/theme/background.png');
-  
+		
 	-webkit-background-size: 100% 270px;
 	-moz-background-size: 100% 270px;
 	-o-background-size: 100% 270px;
