@@ -309,6 +309,12 @@ color: #333333;
 	vertical-align: middle;
 	margin: 6px 0 6px 12px;
 	position: center;
+}
+.wsite-social-item {
+	width: 24px !important;
+	height: 24px !important;
+	margin: 0 0 0 5px !important;
+	background-image: none !important;
 	font-family: 'socialIcons';
 	speak: none;
 	font-style: normal;
@@ -316,16 +322,10 @@ color: #333333;
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
-	color: white !important;
-	font-size: 11px !important;
+	font-size: 14px !important;
 	-webkit-font-smoothing: antialiased;
-}
-.wsite-social-item {
-	width: 24px !important;
-	height: 24px !important;
-	margin: 0 0 0 5px !important;
-	background-image: none !important;
 	text-decoration: none !important;
+	color: white;
 }
 
 .wsite-social-facebook > span:before {content: "\e001"; !important;}
