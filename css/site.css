@@ -28,6 +28,11 @@
     bottom: 30px;
 }
 
+.carousel-indicators li {
+        float: none;
+        display: inline-block;
+}
+
 #customContent {
   margin-top: 2%;
 }
