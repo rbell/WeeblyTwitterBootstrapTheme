@@ -16,6 +16,10 @@
 	height 100%;
 }
 
+.carousel-control.right {
+	right: 30px;
+}
+
 #customContent {
   margin-top: 2%;
 }
