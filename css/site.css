@@ -20,6 +20,14 @@
 	right: 30px;
 }
 
+.carousel-indicators {
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: 15px;
+    text-align: center;
+}
+
 #customContent {
   margin-top: 2%;
 }
